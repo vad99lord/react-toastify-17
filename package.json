@@ -73,6 +73,7 @@
     "@typescript-eslint/eslint-plugin": "^6.18.1",
     "@typescript-eslint/parser": "^6.18.1",
     "@vitejs/plugin-react": "^4.2.1",
+    "@types/use-sync-external-store": "^0.0.6",
     "coveralls": "^3.0.9",
     "cssnano": "^6.0.3",
     "cssnano-cli": "^1.0.5",
@@ -99,7 +100,6 @@
     "vite-plugin-istanbul": "^5.0.0"
   },
   "dependencies": {
-    "@types/use-sync-external-store": "^0.0.6",
     "clsx": "^2.1.0",
     "use-sync-external-store": "^1.2.0"
   },
