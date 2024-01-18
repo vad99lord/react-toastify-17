@@ -53,7 +53,7 @@
     "trailingComma": "none",
     "arrowParens": "avoid"
   },
-  "name": "react-toastify",
+  "name": "react-toastify-17",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fkhadra/react-toastify.git"
